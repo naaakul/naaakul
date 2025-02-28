@@ -1,2 +1,21 @@
-<h1 align="center">Hey there👋, I'm Nakul</h1>
-<h3 align="center">I build stuff with Next.js, dabble in Web3 and AI-ML, and take on design and freelance gigs.</h3>
+![MasterHead](assets/tired now.gif)
+
+<p align="center">
+<em>
+     
+   Hey there👋, I'm <b> Nakul </b>
+  <br>
+   I build stuff with <b> Next.js, </b> dabble in <b> Web3 </b> and <b> AI-ML. </b> and take on <b> design and freelance gigs. </b> </em>
+  View my <a href="https://nakul.site" style="text-decoration: underline;">Portfolio</a>
+
+</p>
+ <div align="center">
+
+[![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/heynakul)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nakul-chouksey/)
+
+</div>
+
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
+
+---
