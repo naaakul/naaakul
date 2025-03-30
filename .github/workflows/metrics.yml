@@ -37,10 +37,12 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
-          plugin_languages_analysis_timeout: 30
+          plugin_languages_analysis_timeout: 60
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_indepth: yes
+          plugin_languages_ignored: html
+          plugin_languages_skipped: ""
           plugin_languages_limit: 24
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
@@ -53,12 +55,14 @@ jobs:
           plugin_lines_repositories_limit: 16
           plugin_lines_sections: base
           plugin_repositories: yes
-          plugin_repositories_featured: YC-Directory, DoodleX,  DoodleX, PayX, Numbers-DAO, Wizzz
+          plugin_repositories_featured: Kosh, Numbers-DAO, Wizzzard, KeyRun, YC-Directory, DoodleX, portfolio-3
           plugin_repositories_order: featured, pinned, starred, random
           plugin_traffic: yes
 
   delete-runs:
     runs-on: ubuntu-latest
+    permissions:
+      actions: write
     steps:
       - name: Delete workflow runs
         uses: Mattraks/delete-workflow-runs@main
