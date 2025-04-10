@@ -13,7 +13,7 @@
 </p>
  <div align="center">
 
-[![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/heynakul)
+[![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_naaakul)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nakul-chouksey/)
 [![Instagram](https://img.shields.io/badge/-FE0266?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_naakul)
 [![Reddit](https://img.shields.io/badge/-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/GladConsideration293/)
